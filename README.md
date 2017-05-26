@@ -1,2 +1,2 @@
 # D-Spark
-Doritos Spark repository
+D-Spark repository
